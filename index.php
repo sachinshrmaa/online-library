@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+
     <link rel="stylesheet" href="./assets/css/main.css">
 
     <title>My Lib</title>
@@ -12,7 +14,7 @@
 
     <!-- Navbar Starts Here -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">MyLib</a>
+        <a class="navbar-brand" href="./index.php">MyLib</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -31,8 +33,7 @@
     </nav>
 
     <main>
-
-        <?php
+    <?php
 //include auth_session.php file on all user panel pages
 include("auth_session.php");
 ?>
@@ -43,8 +44,6 @@ include("auth_session.php");
         <p><a href="logout.php">Logout</a></p>
     </div>
  
-        
-    </main>
     
 
     <!-- Footer Starts Here -->
