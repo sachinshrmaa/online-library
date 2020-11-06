@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/main.css">
 
+
     <title>Create new Account - My Lib</title>
 </head>
 <body> 
@@ -88,6 +89,7 @@
                             <input type="password" name="cpassword" class="form-control" placeholder="Confirm Password"> 
                         </div>  
                     </div>
+
 
                     <div class="row mb-2">
                         <div class="col-md-12">
