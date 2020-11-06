@@ -19,6 +19,14 @@ Add the repo to your htdocs folder inside the xampp main folder.
 Hope you got some idea about hown to ru this project. And If not feel free to tweet me on twitter @sachinshrmaa or mail me at : contact@sachinshrmaa.com
 
 
+## Contributing workflow
+
+Here’s how I suggest you go about proposing a change to this project:
+
+* 1. Fork this project to your account.
+* 2. Create a branch for the change you intend to make.
+* 3. Make your changes to your fork.
+* 4. Send a pull request from your fork’s branch to our master branch.
 
 
 ## References links 
