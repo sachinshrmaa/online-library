@@ -34,9 +34,9 @@
 
     <main>
     <?php
-//include auth_session.php file on all user panel pages
-include("auth_session.php");
-?>
+        //include auth_session.php file on all user panel pages
+        include("auth_session.php");
+    ?>
  
     <div class="form">
         <p>Hey, <?php echo $_SESSION['username']; ?>!</p>
