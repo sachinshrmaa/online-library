@@ -55,7 +55,7 @@
                     <a class="nav-link" href="./login.php">Log In</a>
                 </li>
                 <li class="nav-item ml-3">
-                    <a class="px-3 btn btn-primary" href="#">Sign Up</a>
+                    <a class="px-3 btn btn-primary" href="./signup.php">Sign Up</a>
                 </li>
            
             </ul>
